@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    background: black;
+}
+div{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    background-color:rgba(30, 200, 222, 0.681);
+}
+h1{
+    color: aliceblue;
+}
